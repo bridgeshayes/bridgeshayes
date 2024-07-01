@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there, my name is Garrett Hayes 👋
 
-<!--
-**bridgeshayes/bridgeshayes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bridgeshayes&hide=stars&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/garrett-bridges-hayes/)
+- [Portfolio Site](bridgeshayes.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,py,ts)](https://skillicons.dev)
+
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,bootstrap,dotnet)](https://skillicons.dev)
+
+### Web Libraries
+[![My Skills](https://skillicons.dev/icons?i=jquery,nextjs,express,nodejs)](https://skillicons.dev)
+
+### Source Control
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
+
+### Miscellaneous
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,debian,linux,redhat,mongodb,npm,opencv,qt,r,raspberrypi,ubuntu,visualstudio,vscode&perline=5)](https://skillicons.dev)

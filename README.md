@@ -2,7 +2,6 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bridgeshayes&hide=stars&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/garrett-bridges-hayes/)
 - [Portfolio Site](bridgeshayes.github.io)
 

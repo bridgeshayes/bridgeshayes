@@ -10,11 +10,8 @@
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,py,ts)](https://skillicons.dev)
 
-### Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,bootstrap,dotnet)](https://skillicons.dev)
-
 ### Web Technologies
-[![My Skills](https://skillicons.dev/icons?i=jquery,nextjs,express,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,bootstrap,dotnet,jquery,nextjs,express,nodejs&perline=5)](https://skillicons.dev)
 
 ### Source Control
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)

@@ -5,7 +5,6 @@
 working to become a Full Stack Developer.
 
 - [LinkedIn](https://www.linkedin.com/in/garrett-bridges-hayes/)
-- [Portfolio Site](bridgeshayes.github.io)
 
 ## Skills
 

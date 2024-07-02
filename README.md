@@ -1,6 +1,8 @@
 ## Hi there, my name is Garrett Hayes 👋
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bridgeshayes&hide=stars&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+## About Me
+- I am a Senior Computer Science Major at Tennessee Technological University
+working to become a Full Stack Developer.
 
 - [LinkedIn](https://www.linkedin.com/in/garrett-bridges-hayes/)
 - [Portfolio Site](bridgeshayes.github.io)
@@ -18,3 +20,5 @@
 
 ### Miscellaneous
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,debian,linux,redhat,mongodb,npm,opencv,qt,r,raspberrypi,ubuntu,visualstudio,vscode&perline=5)](https://skillicons.dev)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bridgeshayes&hide=stars&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)

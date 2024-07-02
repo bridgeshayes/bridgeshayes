@@ -13,7 +13,7 @@
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=react,html,css,bootstrap,dotnet)](https://skillicons.dev)
 
-### Web Libraries
+### Web Technologies
 [![My Skills](https://skillicons.dev/icons?i=jquery,nextjs,express,nodejs)](https://skillicons.dev)
 
 ### Source Control

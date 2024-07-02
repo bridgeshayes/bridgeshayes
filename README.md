@@ -6,7 +6,7 @@ working to become a Full Stack Developer.
 
 - [LinkedIn](https://www.linkedin.com/in/garrett-bridges-hayes/)
 
-## Skills
+## Skills So Far...
 
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,py,ts)](https://skillicons.dev)

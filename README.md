@@ -1,8 +1,7 @@
 ## Hi there, my name is Garrett Hayes 👋
 
 ## About Me
-- I am a Senior Computer Science Major at Tennessee Technological University
-working to become a Full Stack Developer.
+- Senior Computer Science Major at Tennessee Technological University
 
 - [LinkedIn](https://www.linkedin.com/in/garrett-bridges-hayes/)
 

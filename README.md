@@ -4,6 +4,7 @@
 - Senior Computer Science Major at Tennessee Technological University
 
 - [LinkedIn](https://www.linkedin.com/in/garrett-bridges-hayes/)
+- [Resume](https://github.com/user-attachments/files/16180922/GarrettHayesResumePublic.pdf)
 
 ## Skills So Far...
 

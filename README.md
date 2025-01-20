@@ -3,7 +3,7 @@
 ## About Me
 
 - [LinkedIn](https://www.linkedin.com/in/garrett-bridges-hayes/)
-- [Resume](https://github.com/user-attachments/files/16180922/GarrettHayesResumePublic.pdf)
+- [GarrettHayesResume.pdf](https://github.com/user-attachments/files/18481032/GarrettHayesResume.pdf)
 
 ## Skills So Far...
 

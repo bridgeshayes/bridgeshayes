@@ -1,7 +1,5 @@
 ## Hi there, my name is Garrett Hayes 👋
 
-## About Me
-
 - [LinkedIn](https://www.linkedin.com/in/garrett-bridges-hayes/)
 - [GarrettHayesResume.pdf](https://github.com/user-attachments/files/18481032/GarrettHayesResume.pdf)
 

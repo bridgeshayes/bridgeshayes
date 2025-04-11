@@ -3,7 +3,6 @@
 - [Portfolio Site](https://www.bridgeshayes.github.io)
 - [LinkedIn](https://www.linkedin.com/in/garrett-bridges-hayes/)
 - [GarrettHayesResume.pdf](https://github.com/user-attachments/files/19713008/GarrettHayesResume.pdf)
-)
 
 ## Skills So Far...
 

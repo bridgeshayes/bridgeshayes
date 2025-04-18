@@ -1,6 +1,6 @@
 ## Hi there, my name is Garrett Hayes 👋
 
-- [Portfolio Site](https://www.bridgeshayes.github.io)
+- [Portfolio Site](https://bridgeshayes.github.io)
 - [LinkedIn](https://www.linkedin.com/in/garrett-bridges-hayes/)
 - [GarrettHayesResume.pdf](https://github.com/user-attachments/files/19713008/GarrettHayesResume.pdf)
 

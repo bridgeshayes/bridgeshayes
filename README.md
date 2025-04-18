@@ -19,6 +19,3 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,debian,linux,redhat,mongodb,npm,opencv,qt,r,raspberrypi,ubuntu,visualstudio,vscode&perline=5)](https://skillicons.dev)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bridgeshayes&hide=stars&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-
-## Freelance Work
-- [Avero Infrastructure](https://averoit.com/)

@@ -2,7 +2,7 @@
 
 🎓 Tennessee Tech Computer Science Alum  
 💼 Full-time Scrum Master & DevOps Engineer  
-🚀 Founder of [YourTour](https://yourtour.app) — "Every town has a story."
+🚀 Founder of [YourTour](https://yourtournavigation.com) — "Every town has a story."
 
 
 ### 🔗 Connect with Me

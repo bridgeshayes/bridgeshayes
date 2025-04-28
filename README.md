@@ -13,7 +13,7 @@
 </details>
 
 📫 **Let's Connect!**  
-[LinkedIn](https://www.linkedin.com/in/garretthayes/) • [Portfolio](https://yourwebsite.com) • [Email](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/garrett-bridges-hayes/) • [Portfolio](https://bridgeshayes.github.io)
 
 ---
 
